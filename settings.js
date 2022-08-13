@@ -18,7 +18,7 @@ global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
 global.packname = 'Dracule Mihawk' //Ganti Jadi Nama Botmu
 global.author = 'By NzrlAfndi' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
-global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
+global.sessionName = 'session' //Saran Gausah Diganti Lagi
 global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
