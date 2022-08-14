@@ -12,11 +12,11 @@ const chalk = require('chalk')
 global.zenzkey = '06d483bbc651' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Dracule Mihawk' //Ganti Jadi Nama Botmu
-global.author = 'By NzrlAfndi' //Ganti Jadi Namamu
+global.ownerNumber = ['6283894435611',''] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6283894435611' //Owner Utama
+global.ownerName = 'vams' //Ganti Jadi Namamu
+global.packname = 'vams=md' //Ganti Jadi Nama Botmu
+global.author = 'By mangtoi' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'session' //Saran Gausah Diganti Lagi
 global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
